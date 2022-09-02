@@ -1,0 +1,15 @@
+> OIE_002 INFO 2022-09-01T05:25:36.930Z Starting import operation.
+Execution Client: API
+Job Name: IICS-CLI-2022-09-01T05:25:36Z
+Organization: Sub_MARM_CI_Dev
+Job Id: 9dEnVZooBj0gPLEEhnBoo8
+User: Annapoorani.Krishnamoorthy@pfizer.com.CH
+> OIE_006 INFO 2022-09-01T05:25:38.131Z Successfully imported object [/Explore/Default/Sample/Mapping1] of type [DTEMPLATE] id [9qTqmhLSsgShLiv03TAmwr] to [/Explore/Default/Sample/Mapping1]
+> OIE_003 INFO 2022-09-01T05:25:38.131Z Finished import operation.
+Job Name: IICS-CLI-2022-09-01T05:25:36Z
+Start Time: 9/1/22 5:25 AM
+End Time: 9/1/22 5:25 AM
+Started by: Annapoorani.Krishnamoorthy@pfizer.com.CH
+Start Method: API
+Source Organization: Sub_MARM_CI_Dev
+Status: SUCCESSFUL
